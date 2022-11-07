@@ -11,7 +11,7 @@ Para poder ejecutar el programa:
 	   ./target/ 
 	   Desde línea de comando ejecutar java -jar SeatCodeMower.jar
 	   
-	2- Descargar fichero SeatCodeMower.jar desde github
+	2- Descargar archivo src/main/java/SeatCodeMower.jar desde github
 	   Desde línea de comando ejecutar java -jar SeatCodeMower.jar
 	 
 
